@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "example-training-threat-model",
+    "owner": "Jacob Clark",
+    "description": "A simple 3 tire web application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Jacob Clark"
+  }
+}
